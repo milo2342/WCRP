@@ -1,5 +1,0 @@
-node_modules/
-.env
-*.log
-bot-data.json
-ticket-data.json
