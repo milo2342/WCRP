@@ -1,0 +1,13 @@
+{
+  "name": "wcrp-channel-reset-bot",
+  "version": "1.0.0",
+  "description": "WCRP server channel reset/setup bot with exactly two slash command groups.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.4.7"
+  }
+}
