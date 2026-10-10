@@ -1,0 +1,19 @@
+{
+  "name": "titan-moderation-bot",
+  "version": "1.2.1",
+  "description": "Hardened Discord moderation and global enforcement bot with protected global access, polished approval logs, secure ticket controls, quarantine response, owner-controlled permissions, and owner-only data backups.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node selftest.js",
+    "selftest": "node selftest.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.0",
+    "dotenv": "^16.4.7"
+  }
+}
