@@ -287,7 +287,7 @@ function serverLogEvents() {
 }
 
 function approvalActionLabel(action) {
-  return action === 'ban' ? 'GLOBAL BAN'
+  return action === 'N/A' ? 'GLOBAL BAN'
     : action === 'kick' ? 'GLOBAL KICK'
       : action === 'timeout' ? 'GLOBAL TIMEOUT'
         : action === 'unban' ? 'GLOBAL UNBAN'
