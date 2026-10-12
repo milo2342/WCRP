@@ -1,0 +1,149 @@
+{
+  "nextPanelId": 6,
+  "panels": [
+    {
+      "id": 1,
+      "guildId": "1418997681254174883",
+      "name": "Unverified Ticket",
+      "title": "Unverified Ticket",
+      "description": "If you are Unverified you can follow the instructions in ⁠https://discord.com/channels/1418997681254174883/1542447691668258817 ⁠⁠⁠⁠and if that does not work for you then You can open a Management Ticket and a <@&1556833084274511953>  member Will Assist You.",
+      "channelId": "1558292277183651850",
+      "categoryId": "1542399475950035014",
+      "transcriptChannelId": "1542399652219854859",
+      "supportRoleIds": [
+        "1556833084274511953"
+      ],
+      "pingRoleIds": [
+        "1556833084274511953"
+      ],
+      "buttonLabel": "Unverified Ticket",
+      "buttonStyle": "danger",
+      "buttonEmoji": "<a:warning:1469077571143467242>",
+      "welcomeMessage": "Hello Please Describe What You Need Assistance With",
+      "color": 15548997,
+      "ticketCounter": 1,
+      "messageId": "1559302401603797213"
+    },
+    {
+      "id": 2,
+      "guildId": "1418997681254174883",
+      "name": "General Support",
+      "title": "General Supports",
+      "description": "If you need support that isn't covered Below, use the General Support button. • Please explain in detail what kind of support you require and be specific.",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542399467934842931",
+      "transcriptChannelId": "1542399654581502063",
+      "supportRoleIds": [
+        "1542399323613040731"
+      ],
+      "pingRoleIds": [],
+      "buttonLabel": "General Support",
+      "buttonStyle": "success",
+      "buttonEmoji": "❔",
+      "welcomeMessage": "Hi, our support team will be with you shortly in the meantime please explain you question below.",
+      "color": 5793266,
+      "ticketCounter": 1,
+      "messageId": "1559302743041118362"
+    },
+    {
+      "id": 3,
+      "guildId": "1418997681254174883",
+      "name": "Security Team",
+      "title": "Security Team",
+      "description": "Open this Ticket to get in contact with Security Team, Please be Specific on what you need",
+      "channelId": "1557315019828625509",
+      "categoryId": "1557312983044988959",
+      "transcriptChannelId": "1557313171524419625",
+      "supportRoleIds": [
+        "1557294660823683112"
+      ],
+      "pingRoleIds": [
+        "1557294660823683112"
+      ],
+      "buttonLabel": "Security Team",
+      "buttonStyle": "secondary",
+      "buttonEmoji": "<:Role:1547669479276937336>",
+      "welcomeMessage": "Hello Please Provide All Necessary information and Proof for this Ticket",
+      "color": 15548997,
+      "ticketCounter": 0,
+      "messageId": "1559303129038590014"
+    },
+    {
+      "id": 4,
+      "guildId": "1418997681254174883",
+      "name": "Server Transfer",
+      "title": "Server Transfer",
+      "description": "Must be at least 14 years old • Able to speak english • An understanding of how 10-codes work and basic law enforcement duties • Must commit 4+ hours a week to maintain your LEO position You must provide a screenshot showing the server’s roles. You must have actively been part of the server within the last 2 months — applications from people who left or retired long ago will not be accepted. The server must be active and publicly released (not shut down or in development).",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542399470011031613",
+      "transcriptChannelId": "1542545880182296656",
+      "supportRoleIds": [
+        "1542399296090013706"
+      ],
+      "pingRoleIds": [
+        "1542399296090013706"
+      ],
+      "buttonLabel": "Server Transfer",
+      "buttonStyle": "primary",
+      "buttonEmoji": "<:Refreshed:1554168538380632085>",
+      "welcomeMessage": "Hi, Thank you for transfering our IAA team will be with you soon in the meantime send your roles from your previous server.",
+      "color": 5793266,
+      "ticketCounter": 0,
+      "messageId": "1559304444275986484"
+    },
+    {
+      "id": 5,
+      "guildId": "1418997681254174883",
+      "name": "Staff Report",
+      "title": "Staff Report",
+      "description": "If you have witnessed a staff member violate any rules within Discord or FiveM, they can be reported through this ticket! • Our Staff Supervisor team will only view these tickets. Any reports on Trial Management or higher need to be reported in the higher up report. • Clips/evidence is required so please describe the issue in as much detail as possible.",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542399470011031613",
+      "transcriptChannelId": "1542546860449730712",
+      "supportRoleIds": [
+        "1542399278998093897",
+        "1556833084274511953"
+      ],
+      "pingRoleIds": [
+        "1542399278998093897"
+      ],
+      "buttonLabel": "Staff Report",
+      "buttonStyle": "danger",
+      "buttonEmoji": "🔨",
+      "welcomeMessage": "Hi, please send proof of the staff member breaking the rules.",
+      "color": 5793266,
+      "ticketCounter": 0,
+      "messageId": "1559305871383863338"
+    }
+  ],
+  "hubs": [],
+  "tickets": {
+    "1559302440661033021": {
+      "channelId": "1559302440661033021",
+      "guildId": "1418997681254174883",
+      "panelId": 1,
+      "openerId": "939620924213309451",
+      "claimedBy": "939620924213309451",
+      "claimedAt": 1791837080751,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "939620924213309451",
+      "createdAt": 1791837072565,
+      "deleted": true,
+      "closedAt": 1791837087540
+    },
+    "1559304308061896735": {
+      "channelId": "1559304308061896735",
+      "guildId": "1418997681254174883",
+      "panelId": 2,
+      "openerId": "1509358519181250560",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1791837517701,
+      "deleted": false
+    }
+  }
+}
