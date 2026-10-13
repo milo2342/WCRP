@@ -1,0 +1,25 @@
+{
+  "format": "wcrp-main-data-backup-v1",
+  "createdAt": "2026-10-13T19:30:33.528Z",
+  "createdBy": "939620924213309451",
+  "mainGuildId": "1418997681254174883",
+  "files": [
+    {
+      "name": "wcrp-main-bot-data-20261013T193033Z.json",
+      "originalName": "wcrp-main-bot-data-20261013T193033Z.json",
+      "sha256": "9660edd3651c3771172628ba69715d9b12aab489f9ddb7f468de827d56bab74e",
+      "rawBytes": 15095,
+      "attachmentBytes": 15095,
+      "compressed": false
+    },
+    {
+      "name": "wcrp-main-ticket-data-20261013T193033Z.json",
+      "originalName": "wcrp-main-ticket-data-20261013T193033Z.json",
+      "sha256": "72f610a33372727afbf6fd5164f8ca1bc4f9861e8f200ff990425f39bf98bf00",
+      "rawBytes": 14120,
+      "attachmentBytes": 14120,
+      "compressed": false
+    }
+  ],
+  "note": "Contains runtime bot configuration/state and ticket state only. Environment variables and Discord bot tokens are not included."
+}
