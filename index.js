@@ -2538,7 +2538,7 @@ const VERIFY_TRIGGER = /\b(?:un)?verif(?:y|ied|ies|ying|ication)\b/i;
 const VERIFY_SUPPORT_CHANNEL_ID = '1558292277183651850';
 function buildVerificationGuideEmbed(guild) {
   const embed = new EmbedBuilder()
-    .setColor(COLORS.primary)
+    .setColor(0xe67e22)
     .setTitle('West Coast Roleplay | Verification Guide')
     .setDescription('Follow the steps below in order to get verified and gain access to the community.')
     .addFields(
