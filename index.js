@@ -1921,7 +1921,7 @@ async function handleCommand(interaction) {
         if (!isStaff(interaction)) return interaction.reply({ content: 'Only staff can claim tickets.', ephemeral: true });
         ticket.claimedBy = interaction.user.id; ticket.claimedAt = Date.now();
         await interaction.channel.setName(`ticket-${normalizeName(interaction.user.username)}`.slice(0, 95)).catch(() => null); saveTickets();
-        return interaction.reply({ embeds: [baseEmbed('Ticket Claimed', `${interaction.user} is now handling this ticket.'\n-# During this ticket, please avoid repeatedly mentioning/pinging repeatedly as this will only increase the time it takes for your request to be completed.`, COLORS.success)] });
+        return interaction.reply({ embeds: [baseEmbed('Ticket Claimed', `${interaction.user} is now handling this ticket.`, COLORS.success)] });
       }
       if (sub === 'add' || sub === 'remove') {
         if (!isStaff(interaction)) return interaction.reply({ content: 'Only staff can add or remove members from tickets.', ephemeral: true });
@@ -2159,7 +2159,7 @@ async function handleButton(interaction) {
     if (type === 'ticket_claim') {
       if (!isStaff(interaction)) return interaction.reply({ content: 'Only staff can claim tickets.', ephemeral: true });
       ticket.claimedBy = interaction.user.id; ticket.claimedAt = Date.now(); await interaction.channel.setName(`ticket-${normalizeName(interaction.user.username)}`.slice(0,95)).catch(()=>null); saveTickets();
-      return interaction.reply({ embeds: [baseEmbed('Ticket Claimed', `${interaction.user} is now handling this ticket.'\n -# During this ticket, please avoid repeatedly mentioning/pinging repeatedly as this will only increase the time it takes for your request to be completed.`, COLORS.success)] });
+      return interaction.reply({ embeds: [baseEmbed('Ticket Claimed', `${interaction.user} is now handling this ticket.`, COLORS.success)] });
     }
     if (type === 'ticket_close') {
       if (!isStaff(interaction) && interaction.user.id !== ticket.openerId) return interaction.reply({ content: 'Only the ticket opener or staff can close this ticket.', ephemeral: true });
