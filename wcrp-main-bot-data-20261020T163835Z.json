@@ -1,0 +1,658 @@
+{
+  "banLogs": {
+    "1418997681254174883": "1542399665511862324"
+  },
+  "approvals": {
+    "1791837681875-lpp9xya": {
+      "id": "1791837681875-lpp9xya",
+      "guildId": "1418997681254174883",
+      "channelId": "1542399665511862324",
+      "messageId": "1559305056778453103",
+      "requestedBy": "939620924213309451",
+      "userId": "798618779781038111",
+      "action": "ban",
+      "reason": ".",
+      "durationMs": null,
+      "stage": "staff",
+      "status": "denied",
+      "createdAt": 1791837681875,
+      "resolvedBy": "939620924213309451",
+      "resolvedAt": 1791837713900,
+      "result": {
+        "succeeded": 11,
+        "failed": 0,
+        "reversal": true
+      },
+      "immediateBanAttempted": true,
+      "bannedGuildIds": [
+        "1418997681254174883",
+        "1434383265250152450",
+        "1499578614298181642",
+        "1499949847053209782",
+        "1502729572305731734",
+        "1502733843482808360",
+        "1530425769564569710",
+        "1543149025526808616",
+        "1556355219020062850",
+        "1557122975671521290",
+        "1558214381639311471"
+      ],
+      "preexistingBanGuildIds": [],
+      "immediateFailures": [
+        {
+          "guildId": "1530291059223957624",
+          "error": "Missing Permissions"
+        },
+        {
+          "guildId": "1547743835185090672",
+          "error": "Missing Permissions"
+        }
+      ],
+      "immediateBanResult": {
+        "succeeded": 11,
+        "failed": 2
+      },
+      "threadId": "1559305056778453103",
+      "reversalResult": {
+        "succeeded": 11,
+        "failed": 0,
+        "guildResults": [
+          {
+            "guildId": "1418997681254174883",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1434383265250152450",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1499578614298181642",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1499949847053209782",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1502729572305731734",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1502733843482808360",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1530425769564569710",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1543149025526808616",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1556355219020062850",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1557122975671521290",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1558214381639311471",
+            "status": "unbanned"
+          }
+        ]
+      },
+      "inviteDelivery": "invite-unavailable"
+    },
+    "1791840120421-kwwznhd": {
+      "id": "1791840120421-kwwznhd",
+      "guildId": "1418997681254174883",
+      "channelId": "1542399665511862324",
+      "messageId": "1559315244445081691",
+      "requestedBy": "939620924213309451",
+      "userId": "798618779781038111",
+      "action": "ban",
+      "reason": ".",
+      "durationMs": null,
+      "stage": "staff",
+      "status": "denied",
+      "createdAt": 1791840120421,
+      "resolvedBy": "1211499384844582992",
+      "resolvedAt": 1791843614638,
+      "result": {
+        "succeeded": 0,
+        "failed": 0,
+        "expired": true
+      },
+      "immediateBanAttempted": true,
+      "bannedGuildIds": [
+        "1543149025526808616",
+        "1557122975671521290",
+        "1556355219020062850",
+        "1418997681254174883",
+        "1434383265250152450",
+        "1558214381639311471",
+        "1502733843482808360",
+        "1499578614298181642",
+        "1499949847053209782",
+        "1530425769564569710",
+        "1502729572305731734"
+      ],
+      "preexistingBanGuildIds": [],
+      "immediateFailures": [
+        {
+          "guildId": "1547743835185090672",
+          "error": "Missing Permissions"
+        },
+        {
+          "guildId": "1530291059223957624",
+          "error": "Missing Permissions"
+        }
+      ],
+      "immediateBanResult": {
+        "succeeded": 11,
+        "failed": 2
+      },
+      "threadId": "1559315244445081691"
+    },
+    "1792364701479-i6217t0": {
+      "id": "1792364701479-i6217t0",
+      "guildId": "1418997681254174883",
+      "channelId": "1542399665511862324",
+      "messageId": "1561515488712990771",
+      "requestedBy": "1211499384844582992",
+      "userId": "1530014389199962263",
+      "action": "ban",
+      "reason": "no",
+      "durationMs": null,
+      "stage": "staff",
+      "status": "approved",
+      "createdAt": 1792364701479,
+      "resolvedBy": "939620924213309451",
+      "resolvedAt": 1792364724673,
+      "result": {
+        "succeeded": 13,
+        "failed": 0
+      },
+      "immediateBanAttempted": true,
+      "alts": [],
+      "bannedGuildIds": [
+        "1556355219020062850",
+        "1418997681254174883",
+        "1530425769564569710",
+        "1530291059223957624",
+        "1434383265250152450",
+        "1543149025526808616",
+        "1502733843482808360",
+        "1502729572305731734",
+        "1547743835185090672",
+        "1557122975671521290",
+        "1499578614298181642",
+        "1558214381639311471",
+        "1499949847053209782"
+      ],
+      "preexistingBanGuildIds": [],
+      "immediateBanResult": {
+        "succeeded": 13,
+        "failed": 0
+      },
+      "threadId": "1561515488712990771",
+      "processingBy": "939620924213309451",
+      "processingAt": 1792364724173
+    },
+    "1792364748208-4dsptfb": {
+      "id": "1792364748208-4dsptfb",
+      "guildId": "1418997681254174883",
+      "channelId": "1542399665511862324",
+      "messageId": "1561515684763144233",
+      "requestedBy": "1449172105072476202",
+      "userId": "610859841132691466",
+      "action": "ban",
+      "reason": "No",
+      "durationMs": null,
+      "stage": "staff",
+      "status": "approved",
+      "createdAt": 1792364748208,
+      "resolvedBy": "939620924213309451",
+      "resolvedAt": 1792364794630,
+      "result": {
+        "succeeded": 13,
+        "failed": 0
+      },
+      "immediateBanAttempted": true,
+      "alts": [],
+      "bannedGuildIds": [
+        "1502729572305731734",
+        "1499578614298181642",
+        "1558214381639311471",
+        "1547743835185090672",
+        "1543149025526808616",
+        "1557122975671521290",
+        "1434383265250152450",
+        "1530291059223957624",
+        "1418997681254174883",
+        "1499949847053209782",
+        "1556355219020062850",
+        "1530425769564569710",
+        "1502733843482808360"
+      ],
+      "preexistingBanGuildIds": [],
+      "immediateBanResult": {
+        "succeeded": 13,
+        "failed": 0
+      },
+      "threadId": "1561515684763144233",
+      "processingBy": "939620924213309451",
+      "processingAt": 1792364794107
+    }
+  },
+  "globalBans": {
+    "1530014389199962263": {
+      "reason": "no",
+      "approvedBy": "939620924213309451",
+      "requestedBy": "1211499384844582992",
+      "requestId": "1792364701479-i6217t0",
+      "at": 1792364724673
+    },
+    "610859841132691466": {
+      "reason": "No",
+      "approvedBy": "939620924213309451",
+      "requestedBy": "1449172105072476202",
+      "requestId": "1792364748208-4dsptfb",
+      "at": 1792364794630
+    }
+  },
+  "globalTimeouts": {},
+  "autoRole": {
+    "1418997681254174883": {
+      "roleId": "1556466128442757212"
+    },
+    "1547743835185090672": {
+      "roleId": "1547743835260719198"
+    }
+  },
+  "welcome": {
+    "1418997681254174883": {
+      "channelId": "1542399509064319116",
+      "message": "Hi {user}, welcome to **West Coast Roleplay**!\\n\\nGet started today by checking out https://discord.com/channels/1418997681254174883/1543972036819296347, https://discord.com/channels/1418997681254174883/1542399630841749524 \\n\\nRead <#1542399515972341820> and <#1542399538164273162> for updates.\\nTransferring to WCRP or have a question? Select a ticket in <#1542399598293950585> and our staff team will help.\\n\\n## Enjoy your stay!"
+    }
+  },
+  "roleLogs": {
+    "1418997681254174883": "1542399602270015559"
+  },
+  "roleRequests": {
+    "1791837412233-2tnqjcy": {
+      "id": "1791837412233-2tnqjcy",
+      "guildId": "1418997681254174883",
+      "userId": "939620924213309451",
+      "roleId": "1542399272660508672",
+      "notes": "No notes provided.",
+      "status": "pending",
+      "createdAt": 1791837412233,
+      "approvedBy": null,
+      "messageId": "1559303867198611457",
+      "channelId": "1542399671350206515"
+    },
+    "1791837453826-4cxpozx": {
+      "id": "1791837453826-4cxpozx",
+      "guildId": "1418997681254174883",
+      "userId": "939620924213309451",
+      "roleId": "1542399272660508672",
+      "notes": "No notes provided.",
+      "status": "pending",
+      "createdAt": 1791837453826,
+      "approvedBy": null,
+      "messageId": "1559304041240989749",
+      "channelId": "1542399671350206515"
+    },
+    "1791837474199-p031mii": {
+      "id": "1791837474199-p031mii",
+      "guildId": "1418997681254174883",
+      "userId": "939620924213309451",
+      "roleId": "1542399272660508672",
+      "notes": "No notes provided.",
+      "status": "approved",
+      "createdAt": 1791837474199,
+      "approvedBy": "939620924213309451",
+      "messageId": "1559304126951592008",
+      "channelId": "1542399671350206515"
+    },
+    "1791837501189-fqdiu62": {
+      "id": "1791837501189-fqdiu62",
+      "guildId": "1418997681254174883",
+      "userId": "939620924213309451",
+      "roleId": "1542399272660508672",
+      "notes": "No notes provided.",
+      "status": "approved",
+      "createdAt": 1791837501189,
+      "approvedBy": "939620924213309451",
+      "messageId": "1559304239954788508",
+      "channelId": "1542399602270015559"
+    },
+    "1791837516156-v9sgllz": {
+      "id": "1791837516156-v9sgllz",
+      "guildId": "1418997681254174883",
+      "userId": "939620924213309451",
+      "roleId": "1542399272660508672",
+      "notes": "No notes provided.",
+      "status": "pending",
+      "createdAt": 1791837516156,
+      "approvedBy": null,
+      "messageId": "1559304302978138205",
+      "channelId": "1542399671350206515"
+    }
+  },
+  "warnings": {},
+  "giveaways": {},
+  "serverLogs": {},
+  "globalRoles": {},
+  "security": {
+    "globalAccessRoleId": "1542648693038252142",
+    "globalGrantRoleId": "1557294660823683112",
+    "quarantineRoleId": "1556465963384176701",
+    "logChannelId": "1542399669035073706",
+    "hardenedMigrationAppliedAt": 1791836806539,
+    "lastManualBackupAt": 1792514315864,
+    "lastManualBackupBy": "939620924213309451"
+  },
+  "commandPermissions": {
+    "1418997681254174883": {}
+  },
+  "commandExemptRoleIds": {
+    "1418997681254174883": "1556833084274511953"
+  },
+  "actionPermissions": {},
+  "stickyMessages": {
+    "1418997681254174883:1542399602270015559": {
+      "guildId": "1418997681254174883",
+      "channelId": "1542399602270015559",
+      "content": "/request role",
+      "messageId": "1559304523388813373",
+      "updatedBy": "939620924213309451",
+      "updatedAt": 1791837569210,
+      "reposting": false
+    },
+    "1418997681254174883:1542399663116656713": {
+      "guildId": "1418997681254174883",
+      "channelId": "1542399663116656713",
+      "content": "/join guild",
+      "messageId": "1562020521401655347",
+      "updatedBy": "939620924213309451",
+      "updatedAt": 1792485113081
+    },
+    "1418997681254174883:1542447691668258817": {
+      "guildId": "1418997681254174883",
+      "channelId": "1542447691668258817",
+      "content": "Please Authorize Discord First then Connect to the Game If you Continue to Have Issues Press Get Verified If that doesnt Work Please open a https://discord.com/channels/1418997681254174883/1558292277183651850 Ticket and someone will assist you!<:Role:1559353030502125633>",
+      "messageId": "1562107804335218819",
+      "updatedBy": "939620924213309451",
+      "updatedAt": 1792505922910
+    }
+  },
+  "securityIncidents": [
+    {
+      "id": "SEC-MV5PUNKT-34QY",
+      "type": "Security Configuration Updated",
+      "at": 1791837614045,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451"
+    },
+    {
+      "id": "SEC-MV5PUYY0-449A",
+      "type": "Grant Authority Assigned",
+      "at": 1791837628776,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1495487351898505400",
+      "roleId": "1557294660823683112"
+    },
+    {
+      "id": "SEC-MV5PV2GC-4MHH",
+      "type": "Grant Authority Assigned",
+      "at": 1791837633324,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1211499384844582992",
+      "roleId": "1557294660823683112"
+    },
+    {
+      "id": "SEC-MV5PVAA3-73BZ",
+      "type": "Grant Authority Assigned",
+      "at": 1791837643467,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "993207603930873886",
+      "roleId": "1557294660823683112"
+    },
+    {
+      "id": "SEC-MV5PWY3V-B0SZ",
+      "type": "Global Request Denied",
+      "at": 1791837721003,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "requestId": "1791837681875-lpp9xya",
+      "targetId": "798618779781038111",
+      "action": "ban",
+      "reversalResult": {
+        "succeeded": 11,
+        "failed": 0,
+        "guildResults": [
+          {
+            "guildId": "1418997681254174883",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1434383265250152450",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1499578614298181642",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1499949847053209782",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1502729572305731734",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1502733843482808360",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1530425769564569710",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1543149025526808616",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1556355219020062850",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1557122975671521290",
+            "status": "unbanned"
+          },
+          {
+            "guildId": "1558214381639311471",
+            "status": "unbanned"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SEC-MV5PX1RC-64PM",
+      "type": "Manual Data Backup Created",
+      "at": 1791837725736,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "backupCreatedAt": "2026-10-12T20:42:05.735Z"
+    },
+    {
+      "id": "SEC-MV5RBDHW-N86F",
+      "type": "Security Configuration Updated",
+      "at": 1791840073748,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451"
+    },
+    {
+      "id": "SEC-MV5TFADE-HMLR",
+      "type": "Expired Global Request",
+      "at": 1791843615554,
+      "guildId": "1418997681254174883",
+      "actorId": "1211499384844582992",
+      "requestId": "1791840120421-kwwznhd",
+      "targetId": "798618779781038111"
+    },
+    {
+      "id": "SEC-MV5VN95G-2XN2",
+      "type": "Unauthorized Protected Role Grant",
+      "at": 1791847346452,
+      "guildId": "1418997681254174883",
+      "actorId": "1558918014110400619",
+      "targetId": "1558918014110400619",
+      "roleId": "1542648693038252142",
+      "kind": "global-access"
+    },
+    {
+      "id": "SEC-MV5VNHVK-L70V",
+      "type": "Unauthorized Protected Role Grant",
+      "at": 1791847357760,
+      "guildId": "1418997681254174883",
+      "actorId": "1558918014110400619",
+      "targetId": "1558918014110400619",
+      "roleId": "1557294660823683112",
+      "kind": "grant-authority"
+    },
+    {
+      "id": "SEC-MV5VNWY9-RGFA",
+      "type": "Global Access Granted",
+      "at": 1791847377297,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1544656022960865290",
+      "roleId": "1542648693038252142"
+    },
+    {
+      "id": "SEC-MV5VO6HN-PBN7",
+      "type": "Grant Authority Assigned",
+      "at": 1791847389659,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1499093688725536818",
+      "roleId": "1557294660823683112"
+    },
+    {
+      "id": "SEC-MV5VOEO9-EK1D",
+      "type": "Grant Authority Assigned",
+      "at": 1791847400265,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1542494511769329674",
+      "roleId": "1557294660823683112"
+    },
+    {
+      "id": "SEC-MV5VONQB-XS77",
+      "type": "Global Access Granted",
+      "at": 1791847412003,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1544656022960865290",
+      "roleId": "1542648693038252142"
+    },
+    {
+      "id": "SEC-MV5VP0A9-OR4Y",
+      "type": "Global Access Granted",
+      "at": 1791847428273,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1558918014110400619",
+      "roleId": "1542648693038252142"
+    },
+    {
+      "id": "SEC-MV5VP9E0-0NEG",
+      "type": "Grant Authority Assigned",
+      "at": 1791847440072,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1558918014110400619",
+      "roleId": "1557294660823683112"
+    },
+    {
+      "id": "SEC-MV5WB3QP-A6Q6",
+      "type": "Global Access Assigned",
+      "at": 1791848459185,
+      "guildId": "1418997681254174883",
+      "actorId": "993207603930873886",
+      "targetId": "993207603930873886",
+      "roleId": "1542648693038252142"
+    },
+    {
+      "id": "SEC-MV62D69M-RPLQ",
+      "type": "Grant Authority Assigned",
+      "at": 1791858633466,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1547752114019635280",
+      "roleId": "1557294660823683112"
+    },
+    {
+      "id": "SEC-MV62DHLM-UR3G",
+      "type": "Global Access Assigned",
+      "at": 1791858648154,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1547752114019635280",
+      "roleId": "1542648693038252142"
+    },
+    {
+      "id": "SEC-MV62GSGS-6W07",
+      "type": "Global Access Assigned",
+      "at": 1791858802204,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1246210977129697293",
+      "roleId": "1542648693038252142"
+    },
+    {
+      "id": "SEC-MV6AXLNO-BW3H",
+      "type": "Global Access Assigned",
+      "at": 1791873023460,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1339947711733960734",
+      "roleId": "1542648693038252142"
+    },
+    {
+      "id": "SEC-MVEFOH5L-BNCK",
+      "type": "Global Action Executed",
+      "at": 1792364725209,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "1530014389199962263",
+      "requestId": "1792364701479-i6217t0",
+      "action": "ban",
+      "succeeded": 13,
+      "failed": 0
+    },
+    {
+      "id": "SEC-MVEFPZ5W-NYIJ",
+      "type": "Global Action Executed",
+      "at": 1792364795204,
+      "guildId": "1418997681254174883",
+      "actorId": "939620924213309451",
+      "targetId": "610859841132691466",
+      "requestId": "1792364748208-4dsptfb",
+      "action": "ban",
+      "succeeded": 13,
+      "failed": 0
+    }
+  ],
+  "securityQuarantines": {},
+  "tempRoles": []
+}
