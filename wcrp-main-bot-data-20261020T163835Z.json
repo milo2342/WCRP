@@ -155,114 +155,9 @@
         "failed": 2
       },
       "threadId": "1559315244445081691"
-    },
-    "1792364701479-i6217t0": {
-      "id": "1792364701479-i6217t0",
-      "guildId": "1418997681254174883",
-      "channelId": "1542399665511862324",
-      "messageId": "1561515488712990771",
-      "requestedBy": "1211499384844582992",
-      "userId": "1530014389199962263",
-      "action": "ban",
-      "reason": "no",
-      "durationMs": null,
-      "stage": "staff",
-      "status": "approved",
-      "createdAt": 1792364701479,
-      "resolvedBy": "939620924213309451",
-      "resolvedAt": 1792364724673,
-      "result": {
-        "succeeded": 13,
-        "failed": 0
-      },
-      "immediateBanAttempted": true,
-      "alts": [],
-      "bannedGuildIds": [
-        "1556355219020062850",
-        "1418997681254174883",
-        "1530425769564569710",
-        "1530291059223957624",
-        "1434383265250152450",
-        "1543149025526808616",
-        "1502733843482808360",
-        "1502729572305731734",
-        "1547743835185090672",
-        "1557122975671521290",
-        "1499578614298181642",
-        "1558214381639311471",
-        "1499949847053209782"
-      ],
-      "preexistingBanGuildIds": [],
-      "immediateBanResult": {
-        "succeeded": 13,
-        "failed": 0
-      },
-      "threadId": "1561515488712990771",
-      "processingBy": "939620924213309451",
-      "processingAt": 1792364724173
-    },
-    "1792364748208-4dsptfb": {
-      "id": "1792364748208-4dsptfb",
-      "guildId": "1418997681254174883",
-      "channelId": "1542399665511862324",
-      "messageId": "1561515684763144233",
-      "requestedBy": "1449172105072476202",
-      "userId": "610859841132691466",
-      "action": "ban",
-      "reason": "No",
-      "durationMs": null,
-      "stage": "staff",
-      "status": "approved",
-      "createdAt": 1792364748208,
-      "resolvedBy": "939620924213309451",
-      "resolvedAt": 1792364794630,
-      "result": {
-        "succeeded": 13,
-        "failed": 0
-      },
-      "immediateBanAttempted": true,
-      "alts": [],
-      "bannedGuildIds": [
-        "1502729572305731734",
-        "1499578614298181642",
-        "1558214381639311471",
-        "1547743835185090672",
-        "1543149025526808616",
-        "1557122975671521290",
-        "1434383265250152450",
-        "1530291059223957624",
-        "1418997681254174883",
-        "1499949847053209782",
-        "1556355219020062850",
-        "1530425769564569710",
-        "1502733843482808360"
-      ],
-      "preexistingBanGuildIds": [],
-      "immediateBanResult": {
-        "succeeded": 13,
-        "failed": 0
-      },
-      "threadId": "1561515684763144233",
-      "processingBy": "939620924213309451",
-      "processingAt": 1792364794107
     }
   },
-  "globalBans": {
-    "1530014389199962263": {
-      "reason": "no",
-      "approvedBy": "939620924213309451",
-      "requestedBy": "1211499384844582992",
-      "requestId": "1792364701479-i6217t0",
-      "at": 1792364724673
-    },
-    "610859841132691466": {
-      "reason": "No",
-      "approvedBy": "939620924213309451",
-      "requestedBy": "1449172105072476202",
-      "requestId": "1792364748208-4dsptfb",
-      "at": 1792364794630
-    }
-  },
+  "globalBans": {},
   "globalTimeouts": {},
   "autoRole": {
     "1418997681254174883": {
@@ -275,7 +170,11 @@
   "welcome": {
     "1418997681254174883": {
       "channelId": "1542399509064319116",
-      "message": "Hi {user}, welcome to **West Coast Roleplay**!\\n\\nGet started today by checking out https://discord.com/channels/1418997681254174883/1543972036819296347, https://discord.com/channels/1418997681254174883/1542399630841749524 \\n\\nRead <#1542399515972341820> and <#1542399538164273162> for updates.\\nTransferring to WCRP or have a question? Select a ticket in <#1542399598293950585> and our staff team will help.\\n\\n## Enjoy your stay!"
+      "message": "Welcome {user} to **West Coast Roleplay** Make sure to check out https://discord.com/channels/1418997681254174883/1547839399369248768\nhttps://discord.com/channels/1418997681254174883/1542399515972341820 and ⁠⁠https://discord.com/channels/1418997681254174883/1542399538164273162 for updates, if you are looking to transfer to WCRP then head over to ⁠⁠https://discord.com/channels/1418997681254174883/1542399598293950585 or if you have any question head to ⁠⁠https://discord.com/channels/1418997681254174883/1542399598293950585"
+    },
+    "1547743835185090672": {
+      "channelId": "1547743835872829485",
+      "message": "Hello {user} welcome to WCRP | Dev Ops, this is where all the updates and development request will be at for West Coast roleplay"
     }
   },
   "roleLogs": {
@@ -345,7 +244,32 @@
   },
   "warnings": {},
   "giveaways": {},
-  "serverLogs": {},
+  "serverLogs": {
+    "1418997681254174883": {
+      "channelId": "1542448189670424656",
+      "events": [
+        "memberJoin",
+        "memberLeave",
+        "memberUpdate",
+        "messageDelete",
+        "messageEdit",
+        "messageBulkDelete",
+        "banAdd",
+        "banRemove",
+        "channelCreate",
+        "channelDelete",
+        "channelUpdate",
+        "roleCreate",
+        "roleDelete",
+        "roleUpdate",
+        "guildUpdate",
+        "threadCreate",
+        "threadDelete",
+        "inviteCreate",
+        "inviteDelete"
+      ]
+    }
+  },
   "globalRoles": {},
   "security": {
     "globalAccessRoleId": "1542648693038252142",
@@ -353,7 +277,7 @@
     "quarantineRoleId": "1556465963384176701",
     "logChannelId": "1542399669035073706",
     "hardenedMigrationAppliedAt": 1791836806539,
-    "lastManualBackupAt": 1792514315864,
+    "lastManualBackupAt": 1792642988134,
     "lastManualBackupBy": "939620924213309451"
   },
   "commandPermissions": {
@@ -373,21 +297,13 @@
       "updatedAt": 1791837569210,
       "reposting": false
     },
-    "1418997681254174883:1542399663116656713": {
+    "1418997681254174883:1542399606594347069": {
       "guildId": "1418997681254174883",
-      "channelId": "1542399663116656713",
-      "content": "/join guild",
-      "messageId": "1562020521401655347",
+      "channelId": "1542399606594347069",
+      "content": "<a:fire_purple:1469072427949752496>",
+      "messageId": "1562523242638348352",
       "updatedBy": "939620924213309451",
-      "updatedAt": 1792485113081
-    },
-    "1418997681254174883:1542447691668258817": {
-      "guildId": "1418997681254174883",
-      "channelId": "1542447691668258817",
-      "content": "Please Authorize Discord First then Connect to the Game If you Continue to Have Issues Press Get Verified If that doesnt Work Please open a https://discord.com/channels/1418997681254174883/1558292277183651850 Ticket and someone will assist you!<:Role:1559353030502125633>",
-      "messageId": "1562107804335218819",
-      "updatedBy": "939620924213309451",
-      "updatedAt": 1792505922910
+      "updatedAt": 1792604971111
     }
   },
   "securityIncidents": [
@@ -629,28 +545,23 @@
       "roleId": "1542648693038252142"
     },
     {
-      "id": "SEC-MVEFOH5L-BNCK",
-      "type": "Global Action Executed",
-      "at": 1792364725209,
+      "id": "SEC-MVGXL3GB-9GOY",
+      "type": "Unauthorized Protected Role Grant",
+      "at": 1792515732923,
       "guildId": "1418997681254174883",
-      "actorId": "939620924213309451",
-      "targetId": "1530014389199962263",
-      "requestId": "1792364701479-i6217t0",
-      "action": "ban",
-      "succeeded": 13,
-      "failed": 0
+      "actorId": "1558918014110400619",
+      "targetId": "1558918014110400619",
+      "roleId": "1557294660823683112",
+      "kind": "grant-authority"
     },
     {
-      "id": "SEC-MVEFPZ5W-NYIJ",
-      "type": "Global Action Executed",
-      "at": 1792364795204,
+      "id": "SEC-MVGXL8RA-QDR7",
+      "type": "Grant Authority Assigned",
+      "at": 1792515739798,
       "guildId": "1418997681254174883",
       "actorId": "939620924213309451",
-      "targetId": "610859841132691466",
-      "requestId": "1792364748208-4dsptfb",
-      "action": "ban",
-      "succeeded": 13,
-      "failed": 0
+      "targetId": "1558918014110400619",
+      "roleId": "1557294660823683112"
     }
   ],
   "securityQuarantines": {},

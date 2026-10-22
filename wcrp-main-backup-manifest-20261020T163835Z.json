@@ -1,23 +1,23 @@
 {
   "format": "wcrp-main-data-backup-v1",
-  "createdAt": "2026-10-20T16:38:35.864Z",
+  "createdAt": "2026-10-22T04:23:08.134Z",
   "createdBy": "939620924213309451",
   "mainGuildId": "1418997681254174883",
   "files": [
     {
-      "name": "wcrp-main-bot-data-20261020T163835Z.json",
-      "originalName": "wcrp-main-bot-data-20261020T163835Z.json",
-      "sha256": "ac0100b1d7b2462fa6236cd16d2b6e89f3d514864408cde40ed628626199d773",
-      "rawBytes": 19652,
-      "attachmentBytes": 19652,
+      "name": "wcrp-main-bot-data-20261022T042308Z.json",
+      "originalName": "wcrp-main-bot-data-20261022T042308Z.json",
+      "sha256": "2a54ee5ce45a81dab6ebcbde0e3060c66796f9cf93aa1109abc134c3d7dca681",
+      "rawBytes": 16844,
+      "attachmentBytes": 16844,
       "compressed": false
     },
     {
-      "name": "wcrp-main-ticket-data-20261020T163835Z.json",
-      "originalName": "wcrp-main-ticket-data-20261020T163835Z.json",
-      "sha256": "c96296abae5918a56737095c46af70b9cbdce868ae74d255eb673bd1c59dfc33",
-      "rawBytes": 20744,
-      "attachmentBytes": 20744,
+      "name": "wcrp-main-ticket-data-20261022T042308Z.json",
+      "originalName": "wcrp-main-ticket-data-20261022T042308Z.json",
+      "sha256": "3b62d03bdea9c42d4006641652d17f121f96f880cf06bc4c9223cf71dd6e3c9c",
+      "rawBytes": 20044,
+      "attachmentBytes": 20044,
       "compressed": false
     }
   ],

@@ -21,7 +21,7 @@
       "buttonEmoji": "<a:warning:1469077571143467242>",
       "welcomeMessage": "Hello Please Describe What You Need Assistance With",
       "color": 15548997,
-      "ticketCounter": 6,
+      "ticketCounter": 5,
       "messageId": "1559302401603797213"
     },
     {
@@ -42,7 +42,7 @@
       "buttonEmoji": "❔",
       "welcomeMessage": "Hi, our support team will be with you shortly in the meantime please explain you question below.",
       "color": 5793266,
-      "ticketCounter": 4,
+      "ticketCounter": 6,
       "messageId": "1559302743041118362"
     },
     {
@@ -65,7 +65,7 @@
       "buttonEmoji": "<:Role:1547669479276937336>",
       "welcomeMessage": "Hello Please Provide All Necessary information and Proof for this Ticket",
       "color": 15548997,
-      "ticketCounter": 5,
+      "ticketCounter": 6,
       "messageId": "1559303129038590014"
     },
     {
@@ -88,7 +88,7 @@
       "buttonEmoji": "<:Refreshed:1554168538380632085>",
       "welcomeMessage": "Hi, Thank you for transfering our IAA team will be with you soon in the meantime send your roles from your previous server.",
       "color": 5793266,
-      "ticketCounter": 5,
+      "ticketCounter": 3,
       "messageId": "1559304444275986484"
     },
     {
@@ -181,8 +181,8 @@
       "buttonEmoji": "🔄",
       "welcomeMessage": "Hi, Thank you for transfering our IAA team will be with you soon in the meantime send your roles from your previous server.",
       "color": 2829617,
-      "ticketCounter": 1,
-      "messageId": "1562141867423043614"
+      "ticketCounter": 3,
+      "messageId": "1562181143514845246"
     }
   ],
   "hubs": [
@@ -218,68 +218,16 @@
       "messageId": "1559357710674305117"
     },
     {
-      "id": 1792219852292,
+      "id": 1792523381522,
       "guildId": "1418997681254174883",
-      "channelId": "1542399598293950585",
+      "channelId": "1557315019828625509",
       "panelIds": [
-        2,
-        4,
-        5,
-        6,
-        7
+        4
       ],
       "title": "Ticket Selection",
       "description": "Choose the support department you need below. Your ticket will be private and routed to the appropriate support team.",
-      "color": 15105570,
-      "messageId": "1560907937113837580"
-    },
-    {
-      "id": 1792514069444,
-      "guildId": "1418997681254174883",
-      "channelId": "1542399598293950585",
-      "panelIds": [
-        2,
-        3,
-        5,
-        6,
-        7
-      ],
-      "title": "Ticket Selection",
-      "description": "Choose the support department you need below. Your ticket will be private and routed to the appropriate support team.",
-      "color": 15105570,
-      "messageId": "1562141973228298412"
-    },
-    {
-      "id": 1792514108079,
-      "guildId": "1418997681254174883",
-      "channelId": "1542399598293950585",
-      "panelIds": [
-        2,
-        5,
-        6,
-        7,
-        8
-      ],
-      "title": "Ticket Hub",
-      "description": "Choose the support department you need below. Your ticket will be private and routed to the appropriate support team.",
-      "color": 15105570,
-      "messageId": "1562142135430414428"
-    },
-    {
-      "id": 1792514163847,
-      "guildId": "1418997681254174883",
-      "channelId": "1542399598293950585",
-      "panelIds": [
-        2,
-        8,
-        5,
-        6,
-        7
-      ],
-      "title": "Ticket Hub",
-      "description": "Choose the support department you need below. Your ticket will be private and routed to the appropriate support team.",
-      "color": 15105570,
-      "messageId": "1562142369179242609"
+      "color": 5793266,
+      "messageId": "1562181031304368269"
     }
   ],
   "tickets": {
@@ -489,104 +437,89 @@
       "createdAt": 1791917184350,
       "deleted": false
     },
-    "1560907987084910684": {
-      "channelId": "1560907987084910684",
+    "1562145042762567730": {
+      "channelId": "1562145042762567730",
       "guildId": "1418997681254174883",
       "panelId": 2,
       "openerId": "939620924213309451",
       "claimedBy": "939620924213309451",
-      "claimedAt": 1792219869307,
-      "addedUserIds": [],
-      "closed": false,
-      "closedBy": null,
-      "createdAt": 1792219864549,
-      "deleted": true
-    },
-    "1561094730874617879": {
-      "channelId": "1561094730874617879",
-      "guildId": "1418997681254174883",
-      "panelId": 1,
-      "openerId": "1200735848992346236",
-      "claimedBy": null,
-      "claimedAt": null,
+      "claimedAt": 1792514809811,
       "addedUserIds": [],
       "closed": true,
-      "closedBy": "1339947711733960734",
-      "createdAt": 1792264389963,
+      "closedBy": "939620924213309451",
+      "createdAt": 1792514801609,
       "deleted": true,
-      "closedAt": 1792264474680
+      "closedAt": 1792514816326
     },
-    "1561239348870127662": {
-      "channelId": "1561239348870127662",
-      "guildId": "1418997681254174883",
-      "panelId": 4,
-      "openerId": "957699478704488521",
-      "claimedBy": "1495487351898505400",
-      "claimedAt": 1792298877834,
-      "addedUserIds": [],
-      "closed": true,
-      "closedBy": "1495487351898505400",
-      "createdAt": 1792298867479,
-      "deleted": true,
-      "closedAt": 1792450987336
-    },
-    "1561448972831170570": {
-      "channelId": "1561448972831170570",
-      "guildId": "1418997681254174883",
-      "panelId": 4,
-      "openerId": "986426743642546176",
-      "claimedBy": "1339947711733960734",
-      "claimedAt": 1792348913700,
-      "addedUserIds": [],
-      "closed": true,
-      "closedBy": "1339947711733960734",
-      "createdAt": 1792348845665,
-      "deleted": true,
-      "closedAt": 1792359234014
-    },
-    "1561452726406217749": {
-      "channelId": "1561452726406217749",
-      "guildId": "1418997681254174883",
-      "panelId": 1,
-      "openerId": "610859841132691466",
-      "claimedBy": "1339947711733960734",
-      "claimedAt": 1792349784692,
-      "addedUserIds": [],
-      "closed": true,
-      "closedBy": "1339947711733960734",
-      "createdAt": 1792349740541,
-      "deleted": true,
-      "closedAt": 1792350247955
-    },
-    "1561847437864214576": {
-      "channelId": "1561847437864214576",
-      "guildId": "1418997681254174883",
-      "panelId": 3,
-      "openerId": "957699478704488521",
-      "claimedBy": null,
-      "claimedAt": null,
-      "addedUserIds": [],
-      "closed": false,
-      "closedBy": null,
-      "createdAt": 1792443847102,
-      "deleted": true
-    },
-    "1561925389142458449": {
-      "channelId": "1561925389142458449",
+    "1562145598205853777": {
+      "channelId": "1562145598205853777",
       "guildId": "1418997681254174883",
       "panelId": 2,
-      "openerId": "1211499384844582992",
-      "claimedBy": "1211499384844582992",
-      "claimedAt": 1792462435830,
+      "openerId": "939620924213309451",
+      "claimedBy": "939620924213309451",
+      "claimedAt": 1792514939191,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792514934188,
+      "deleted": true
+    },
+    "1562148422029414491": {
+      "channelId": "1562148422029414491",
+      "guildId": "1418997681254174883",
+      "panelId": 3,
+      "openerId": "1495487351898505400",
+      "claimedBy": "939620924213309451",
+      "claimedAt": 1792515615213,
       "addedUserIds": [],
       "closed": true,
       "closedBy": "1211499384844582992",
-      "createdAt": 1792462432098,
+      "createdAt": 1792515607316,
       "deleted": true,
-      "closedAt": 1792462438702
+      "closedAt": 1792544242033
     },
-    "1562141192890621972": {
-      "channelId": "1562141192890621972",
+    "1562175449692639272": {
+      "channelId": "1562175449692639272",
+      "guildId": "1418997681254174883",
+      "panelId": 1,
+      "openerId": "1147370675238080624",
+      "claimedBy": "939620924213309451",
+      "claimedAt": 1792522171825,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "1211499384844582992",
+      "createdAt": 1792522051492,
+      "deleted": true,
+      "closedAt": 1792522845345
+    },
+    "1562179497409908799": {
+      "channelId": "1562179497409908799",
+      "guildId": "1418997681254174883",
+      "panelId": 2,
+      "openerId": "1147370675238080624",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792523016361,
+      "deleted": false
+    },
+    "1562179976080392268": {
+      "channelId": "1562179976080392268",
+      "guildId": "1418997681254174883",
+      "panelId": 2,
+      "openerId": "939620924213309451",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792523130407,
+      "deleted": true
+    },
+    "1562181039088992347": {
+      "channelId": "1562181039088992347",
       "guildId": "1418997681254174883",
       "panelId": 4,
       "openerId": "939620924213309451",
@@ -595,11 +528,24 @@
       "addedUserIds": [],
       "closed": false,
       "closedBy": null,
-      "createdAt": 1792513883703,
+      "createdAt": 1792523383833,
       "deleted": true
     },
-    "1562142432924147752": {
-      "channelId": "1562142432924147752",
+    "1562181168537935904": {
+      "channelId": "1562181168537935904",
+      "guildId": "1418997681254174883",
+      "panelId": 8,
+      "openerId": "939620924213309451",
+      "claimedBy": "1339947711733960734",
+      "claimedAt": 1792523420037,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792523414711,
+      "deleted": true
+    },
+    "1562181347819131001": {
+      "channelId": "1562181347819131001",
       "guildId": "1418997681254174883",
       "panelId": 8,
       "openerId": "939620924213309451",
@@ -608,7 +554,35 @@
       "addedUserIds": [],
       "closed": false,
       "closedBy": null,
-      "createdAt": 1792514179407,
+      "createdAt": 1792523457415,
+      "deleted": true
+    },
+    "1562181550601142353": {
+      "channelId": "1562181550601142353",
+      "guildId": "1418997681254174883",
+      "panelId": 8,
+      "openerId": "1449172105072476202",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792523505798,
+      "deleted": true
+    },
+    "1562362410608631859": {
+      "channelId": "1562362410608631859",
+      "guildId": "1418997681254174883",
+      "panelId": 3,
+      "openerId": "939620924213309451",
+      "claimedBy": "939620924213309451",
+      "claimedAt": 1792566632552,
+      "addedUserIds": [
+        "1147370675238080624"
+      ],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792566626636,
       "deleted": false
     }
   }
