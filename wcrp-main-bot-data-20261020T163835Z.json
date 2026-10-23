@@ -162,19 +162,12 @@
   "autoRole": {
     "1418997681254174883": {
       "roleId": "1556466128442757212"
-    },
-    "1547743835185090672": {
-      "roleId": "1547743835260719198"
     }
   },
   "welcome": {
     "1418997681254174883": {
       "channelId": "1542399509064319116",
       "message": "Welcome {user} to **West Coast Roleplay** Make sure to check out https://discord.com/channels/1418997681254174883/1547839399369248768\nhttps://discord.com/channels/1418997681254174883/1542399515972341820 and ⁠⁠https://discord.com/channels/1418997681254174883/1542399538164273162 for updates, if you are looking to transfer to WCRP then head over to ⁠⁠https://discord.com/channels/1418997681254174883/1542399598293950585 or if you have any question head to ⁠⁠https://discord.com/channels/1418997681254174883/1542399598293950585"
-    },
-    "1547743835185090672": {
-      "channelId": "1547743835872829485",
-      "message": "Hello {user} welcome to WCRP | Dev Ops, this is where all the updates and development request will be at for West Coast roleplay"
     }
   },
   "roleLogs": {
@@ -244,32 +237,7 @@
   },
   "warnings": {},
   "giveaways": {},
-  "serverLogs": {
-    "1418997681254174883": {
-      "channelId": "1542448189670424656",
-      "events": [
-        "memberJoin",
-        "memberLeave",
-        "memberUpdate",
-        "messageDelete",
-        "messageEdit",
-        "messageBulkDelete",
-        "banAdd",
-        "banRemove",
-        "channelCreate",
-        "channelDelete",
-        "channelUpdate",
-        "roleCreate",
-        "roleDelete",
-        "roleUpdate",
-        "guildUpdate",
-        "threadCreate",
-        "threadDelete",
-        "inviteCreate",
-        "inviteDelete"
-      ]
-    }
-  },
+  "serverLogs": {},
   "globalRoles": {},
   "security": {
     "globalAccessRoleId": "1542648693038252142",
@@ -277,7 +245,7 @@
     "quarantineRoleId": "1556465963384176701",
     "logChannelId": "1542399669035073706",
     "hardenedMigrationAppliedAt": 1791836806539,
-    "lastManualBackupAt": 1792642988134,
+    "lastManualBackupAt": 1792731532571,
     "lastManualBackupBy": "939620924213309451"
   },
   "commandPermissions": {
@@ -296,14 +264,6 @@
       "updatedBy": "939620924213309451",
       "updatedAt": 1791837569210,
       "reposting": false
-    },
-    "1418997681254174883:1542399606594347069": {
-      "guildId": "1418997681254174883",
-      "channelId": "1542399606594347069",
-      "content": "<a:fire_purple:1469072427949752496>",
-      "messageId": "1562523242638348352",
-      "updatedBy": "939620924213309451",
-      "updatedAt": 1792604971111
     }
   },
   "securityIncidents": [
@@ -543,25 +503,6 @@
       "actorId": "939620924213309451",
       "targetId": "1339947711733960734",
       "roleId": "1542648693038252142"
-    },
-    {
-      "id": "SEC-MVGXL3GB-9GOY",
-      "type": "Unauthorized Protected Role Grant",
-      "at": 1792515732923,
-      "guildId": "1418997681254174883",
-      "actorId": "1558918014110400619",
-      "targetId": "1558918014110400619",
-      "roleId": "1557294660823683112",
-      "kind": "grant-authority"
-    },
-    {
-      "id": "SEC-MVGXL8RA-QDR7",
-      "type": "Grant Authority Assigned",
-      "at": 1792515739798,
-      "guildId": "1418997681254174883",
-      "actorId": "939620924213309451",
-      "targetId": "1558918014110400619",
-      "roleId": "1557294660823683112"
     }
   ],
   "securityQuarantines": {},
