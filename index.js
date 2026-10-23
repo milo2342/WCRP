@@ -1633,7 +1633,6 @@ function ticketSupportGuideEmbed(isPublic = false, withBanner = false) {
       { name: '✏️  `/ticket rename`', value: 'Change the channel name.', inline: true },
       { name: '➕  `/ticket add`', value: 'Give a member access to the ticket.', inline: true },
       { name: '➖  `/ticket remove`', value: 'Take away access you added. The opener and support roles stay.', inline: true },
-      { name: '📖  `/ticket features`', value: 'Show this guide. Add `public:True` to post it in a channel.', inline: true },
       { name: '🔒  `/ticket close`', value: 'Locks the ticket, saves a transcript, DMs the opener a copy and shows Reopen and Delete buttons.', inline: true },
       { name: '🔓  `/ticket reopen`', value: 'Lets the member message again.', inline: true },
       { name: '🗑️  `/ticket delete`', value: 'Permanently deletes the channel.\n⚠️ **This cannot be undone.**', inline: true },
