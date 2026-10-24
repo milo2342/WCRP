@@ -9,17 +9,4 @@
       "originalName": "wcrp-main-bot-data-20261023T045852Z.json",
       "sha256": "c675f53c010bbd1d0e96e56d85c3d06c89911e59f82a20d65cd5d70a2ed972b8",
       "rawBytes": 15095,
-      "attachmentBytes": 15095,
-      "compressed": false
-    },
-    {
-      "name": "wcrp-main-ticket-data-20261023T045852Z.json",
-      "originalName": "wcrp-main-ticket-data-20261023T045852Z.json",
-      "sha256": "72f610a33372727afbf6fd5164f8ca1bc4f9861e8f200ff990425f39bf98bf00",
-      "rawBytes": 14120,
-      "attachmentBytes": 14120,
-      "compressed": false
-    }
-  ],
-  "note": "Contains runtime bot configuration/state and ticket state only. Environment variables and Discord bot tokens are not included."
-}
+      "attachmentBytes
