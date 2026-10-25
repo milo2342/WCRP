@@ -69,29 +69,6 @@
       "messageId": "1559303129038590014"
     },
     {
-      "id": 4,
-      "guildId": "1418997681254174883",
-      "name": "Server Transfer",
-      "title": "Server Transfer",
-      "description": "Must be at least 14 years old • Able to speak english • An understanding of how 10-codes work and basic law enforcement duties • Must commit 4+ hours a week to maintain your LEO position You must provide a screenshot showing the server’s roles. You must have actively been part of the server within the last 2 months — applications from people who left or retired long ago will not be accepted. The server must be active and publicly released (not shut down or in development).",
-      "channelId": "1542399598293950585",
-      "categoryId": "1542399472783466496",
-      "transcriptChannelId": "1542545880182296656",
-      "supportRoleIds": [
-        "1542399296090013706"
-      ],
-      "pingRoleIds": [
-        "1542399296090013706"
-      ],
-      "buttonLabel": "Server Transfer",
-      "buttonStyle": "primary",
-      "buttonEmoji": "<:Refreshed:1554168538380632085>",
-      "welcomeMessage": "Hi, Thank you for transfering our IAA team will be with you soon in the meantime send your roles from your previous server.",
-      "color": 1,
-      "ticketCounter": 2,
-      "messageId": "1559304444275986484"
-    },
-    {
       "id": 5,
       "guildId": "1418997681254174883",
       "name": "Staff Report",
