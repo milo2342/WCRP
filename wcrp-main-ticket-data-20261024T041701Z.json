@@ -168,8 +168,8 @@
       "title": "Server Transfer",
       "description": "Must be at least 14 years old • Able to speak english • An understanding of how 10-codes work and basic law enforcement duties • Must commit 4+ hours a week to maintain your LEO position You must provide a screenshot showing the server’s roles. You must have actively been part of the server within the last 2 months — applications from people who left or retired long ago will not be accepted. The server must be active and publicly released (not shut down or in development).",
       "channelId": "1542399598293950585",
-      "categoryId": "1542399472783466496",
-      "transcriptChannelId": "1542545880182296656",
+      "categoryId":"1542399472783466496"
+      "transcriptChannelId": "1542545880182296656"
       "supportRoleIds": [
         "1542399296090013706"
       ],
