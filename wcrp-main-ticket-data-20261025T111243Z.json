@@ -1,0 +1,437 @@
+{
+  "nextPanelId": 8,
+  "panels": [
+    {
+      "id": 1,
+      "guildId": "1418997681254174883",
+      "name": "Unverified Ticket",
+      "title": "Unverified Ticket",
+      "description": "If you are Unverified you can follow the instructions in ⁠https://discord.com/channels/1418997681254174883/1542447691668258817 ⁠⁠⁠⁠and if that does not work for you then You can open a Management Ticket and a <@&1556833084274511953>  member Will Assist You.",
+      "channelId": "1558292277183651850",
+      "categoryId": "1542399475950035014",
+      "transcriptChannelId": "1542399652219854859",
+      "supportRoleIds": [
+        "1556833084274511953"
+      ],
+      "pingRoleIds": [
+        "1556833084274511953"
+      ],
+      "buttonLabel": "Unverified Ticket",
+      "buttonStyle": "danger",
+      "buttonEmoji": "<a:warning:1469077571143467242>",
+      "welcomeMessage": "Hello Please Describe What You Need Assistance With",
+      "color": 15548997,
+      "ticketCounter": 4,
+      "messageId": "1559302401603797213"
+    },
+    {
+      "id": 2,
+      "guildId": "1418997681254174883",
+      "name": "General Support",
+      "title": "General Supports",
+      "description": "If you need support that isn't covered Below, use the General Support button. • Please explain in detail what kind of support you require and be specific.",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542399467934842931",
+      "transcriptChannelId": "1542399654581502063",
+      "supportRoleIds": [
+        "1542399323613040731"
+      ],
+      "pingRoleIds": [],
+      "buttonLabel": "General Support",
+      "buttonStyle": "success",
+      "buttonEmoji": "❔",
+      "welcomeMessage": "Hi, our support team will be with you shortly in the meantime please explain you question below.",
+      "color": 5793266,
+      "ticketCounter": 3,
+      "messageId": "1559302743041118362"
+    },
+    {
+      "id": 3,
+      "guildId": "1418997681254174883",
+      "name": "Security Team",
+      "title": "Security Team",
+      "description": "Open this Ticket to get in contact with Security Team, Please be Specific on what you need",
+      "channelId": "1557315019828625509",
+      "categoryId": "1557312983044988959",
+      "transcriptChannelId": "1557313171524419625",
+      "supportRoleIds": [
+        "1557294660823683112"
+      ],
+      "pingRoleIds": [
+        "1557294660823683112"
+      ],
+      "buttonLabel": "Security Team",
+      "buttonStyle": "secondary",
+      "buttonEmoji": "<:Role:1547669479276937336>",
+      "welcomeMessage": "Hello Please Provide All Necessary information and Proof for this Ticket",
+      "color": 15548997,
+      "ticketCounter": 4,
+      "messageId": "1559303129038590014"
+    },
+    {
+      "id": 4,
+      "guildId": "1418997681254174883",
+      "name": "Server Transfer",
+      "title": "Server Transfer",
+      "description": "Must be at least 14 years old • Able to speak english • An understanding of how 10-codes work and basic law enforcement duties • Must commit 4+ hours a week to maintain your LEO position You must provide a screenshot showing the server’s roles. You must have actively been part of the server within the last 2 months — applications from people who left or retired long ago will not be accepted. The server must be active and publicly released (not shut down or in development).",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542399472783466496",
+      "transcriptChannelId": "1542545880182296656",
+      "supportRoleIds": [
+        "1542399296090013706"
+      ],
+      "pingRoleIds": [
+        "1542399296090013706"
+      ],
+      "buttonLabel": "Server Transfer",
+      "buttonStyle": "primary",
+      "buttonEmoji": "<:Refreshed:1554168538380632085>",
+      "welcomeMessage": "Hi, Thank you for transfering our IAA team will be with you soon in the meantime send your roles from your previous server.",
+      "color": 020202,
+      "ticketCounter": 2,
+      "messageId": "1559304444275986484"
+    },
+    {
+      "id": 5,
+      "guildId": "1418997681254174883",
+      "name": "Staff Report",
+      "title": "Staff Report",
+      "description": "If you have witnessed a staff member violate any rules within Discord or FiveM, they can be reported through this ticket! • Our Staff Supervisor team will only view these tickets. Any reports on Trial Management or higher need to be reported in the higher up report. • Clips/evidence is required so please describe the issue in as much detail as possible.",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542399470011031613",
+      "transcriptChannelId": "1542546860449730712",
+      "supportRoleIds": [
+        "1542399278998093897",
+        "1556833084274511953"
+      ],
+      "pingRoleIds": [
+        "1542399278998093897"
+      ],
+      "buttonLabel": "Staff Report",
+      "buttonStyle": "danger",
+      "buttonEmoji": "🔨",
+      "welcomeMessage": "Hi, please send proof of the staff member breaking the rules.",
+      "color": 5793266,
+      "ticketCounter": 3,
+      "messageId": "1559305871383863338"
+    },
+    {
+      "id": 6,
+      "guildId": "1418997681254174883",
+      "name": "Higher Up Report",
+      "title": "Higher Up Report",
+      "description": "If you need to report a staff member who is Junior Management or higher, use this ticket. Staff members below this rank must be done through a regular staff report. • Clips/evidence is required so please describe the issue in as much detail as possible.",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542562229247934671",
+      "transcriptChannelId": "1542546860449730712",
+      "supportRoleIds": [
+        "1542399284195098624",
+        "1542399275835719753"
+      ],
+      "pingRoleIds": [],
+      "buttonLabel": "Higher Up Report",
+      "buttonStyle": "danger",
+      "buttonEmoji": "<a:warning:1469077571143467242>",
+      "welcomeMessage": "Hello. please provide evidence and describe the issue in as much detail as possible.",
+      "color": 15548997,
+      "ticketCounter": 0,
+      "messageId": "1559356346862669885"
+    },
+    {
+      "id": 7,
+      "guildId": "1418997681254174883",
+      "name": "Ban Appeal",
+      "title": "Ban Appeal",
+      "description": "If you have been false banned recently, you can appeal it by using this ticket. • Please note that these are only for false bans. Any bans past 14 days will be automatically denied. If you were permantly banned or banned for cheating make a ⁠https://discord.com/channels/1418997681254174883/1557315019828625509",
+      "channelId": "1542399598293950585",
+      "categoryId": "1542399471730819083",
+      "transcriptChannelId": "1542546426050121828",
+      "supportRoleIds": [
+        "1542399324728590366",
+        "1556833084274511953"
+      ],
+      "pingRoleIds": [
+        "1542399324728590366"
+      ],
+      "buttonLabel": "Ban Appeals",
+      "buttonStyle": "danger",
+      "buttonEmoji": "<a:alert:897525925950914600>",
+      "welcomeMessage": "Hello Please Provide Any Evidence  and Describe in great Detail on Why This Ban is False",
+      "color": 15548997,
+      "ticketCounter": 0,
+      "messageId": "1559356993683333172"
+    }
+  ],
+  "hubs": [
+    {
+      "id": 1791850170750,
+      "guildId": "1418997681254174883",
+      "channelId": "1542399598293950585",
+      "panelIds": [
+        2,
+        4,
+        5,
+        6
+      ],
+      "title": "Ticket Selection",
+      "description": "Choose the support department you need below. Your ticket will be private and routed to the appropriate support team.",
+      "color": 15105570,
+      "messageId": "1559357380410478603"
+    },
+    {
+      "id": 1791850249588,
+      "guildId": "1418997681254174883",
+      "channelId": "1542399598293950585",
+      "panelIds": [
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "title": "Ticket Selection",
+      "description": "Choose the support department you need below. Your ticket will be private and routed to the appropriate support team.",
+      "color": 15105570,
+      "messageId": "1559357710674305117"
+    }
+  ],
+  "tickets": {
+    "1559302440661033021": {
+      "channelId": "1559302440661033021",
+      "guildId": "1418997681254174883",
+      "panelId": 1,
+      "openerId": "939620924213309451",
+      "claimedBy": "939620924213309451",
+      "claimedAt": 1791837080751,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "939620924213309451",
+      "createdAt": 1791837072565,
+      "deleted": true,
+      "closedAt": 1791837087540
+    },
+    "1559304308061896735": {
+      "channelId": "1559304308061896735",
+      "guildId": "1418997681254174883",
+      "panelId": 2,
+      "openerId": "1509358519181250560",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "611272144252436482",
+      "createdAt": 1791837517701,
+      "deleted": true,
+      "closedAt": 1791840262482
+    },
+    "1559342143942697072": {
+      "channelId": "1559342143942697072",
+      "guildId": "1418997681254174883",
+      "panelId": 3,
+      "openerId": "939620924213309451",
+      "claimedBy": "993207603930873886",
+      "claimedAt": 1791846545798,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1791846538416,
+      "deleted": true
+    },
+    "1559342565461860426": {
+      "channelId": "1559342565461860426",
+      "guildId": "1418997681254174883",
+      "panelId": 5,
+      "openerId": "1312130438747394078",
+      "claimedBy": "1449172105072476202",
+      "claimedAt": 1791846681276,
+      "addedUserIds": [
+        "1257602525155168318"
+      ],
+      "closed": true,
+      "closedBy": "993207603930873886",
+      "createdAt": 1791846639064,
+      "deleted": true,
+      "closedAt": 1791846876240
+    },
+    "1559342624689885219": {
+      "channelId": "1559342624689885219",
+      "guildId": "1418997681254174883",
+      "panelId": 3,
+      "openerId": "842094609596678155",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1791846653246,
+      "deleted": false
+    },
+    "1559342630398332979": {
+      "channelId": "1559342630398332979",
+      "guildId": "1418997681254174883",
+      "panelId": 4,
+      "openerId": "1257602525155168318",
+      "claimedBy": "993207603930873886",
+      "claimedAt": 1791846667178,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "1312130438747394078",
+      "createdAt": 1791846654420,
+      "deleted": true,
+      "closedAt": 1791847568134
+    },
+    "1559344956592619592": {
+      "channelId": "1559344956592619592",
+      "guildId": "1418997681254174883",
+      "panelId": 1,
+      "openerId": "1558918014110400619",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "1211499384844582992",
+      "createdAt": 1791847208989,
+      "deleted": true,
+      "closedAt": 1791847262471
+    },
+    "1559348002580205649": {
+      "channelId": "1559348002580205649",
+      "guildId": "1418997681254174883",
+      "panelId": 1,
+      "openerId": "1257602525155168318",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "1211499384844582992",
+      "createdAt": 1791847935215,
+      "deleted": true,
+      "closedAt": 1791847950986
+    },
+    "1559352640058687579": {
+      "channelId": "1559352640058687579",
+      "guildId": "1418997681254174883",
+      "panelId": 5,
+      "openerId": "1257602525155168318",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "1257602525155168318",
+      "createdAt": 1791849040913,
+      "deleted": true,
+      "closedAt": 1791849063280
+    },
+    "1559352796481065040": {
+      "channelId": "1559352796481065040",
+      "guildId": "1418997681254174883",
+      "panelId": 5,
+      "openerId": "1257602525155168318",
+      "claimedBy": "610859841132691466",
+      "claimedAt": 1791849085079,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "1257602525155168318",
+      "createdAt": 1791849078302,
+      "deleted": true,
+      "closedAt": 1791849145264
+    },
+    "1559357847207411803": {
+      "channelId": "1559357847207411803",
+      "guildId": "1418997681254174883",
+      "panelId": 1,
+      "openerId": "1559356478580596786",
+      "claimedBy": "939620924213309451",
+      "claimedAt": 1791850970248,
+      "addedUserIds": [],
+      "closed": true,
+      "closedBy": "939620924213309451",
+      "createdAt": 1791850282888,
+      "deleted": true,
+      "closedAt": 1791850972133
+    },
+    "1559368856546443275": {
+      "channelId": "1559368856546443275",
+      "guildId": "1418997681254174883",
+      "panelId": 3,
+      "openerId": "265233638965116928",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1791852907338,
+      "deleted": false
+    },
+    "1559376862327742484": {
+      "channelId": "1559376862327742484",
+      "guildId": "1418997681254174883",
+      "panelId": 2,
+      "openerId": "985623488037519370",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1791854815936,
+      "deleted": false
+    },
+    "1559379626093051966": {
+      "channelId": "1559379626093051966",
+      "guildId": "1418997681254174883",
+      "panelId": 3,
+      "openerId": "1190551550754553989",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1791855474843,
+      "deleted": false
+    },
+    "1559638453266944134": {
+      "channelId": "1559638453266944134",
+      "guildId": "1418997681254174883",
+      "panelId": 4,
+      "openerId": "917534740330983475",
+      "claimedBy": "993207603930873886",
+      "claimedAt": 1791917240902,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1791917184350,
+      "deleted": false
+    },
+    "1563460012616192050": {
+      "channelId": "1563460012616192050",
+      "guildId": "1418997681254174883",
+      "panelId": 2,
+      "openerId": "1257602525155168318",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792828314690,
+      "deleted": false,
+      "recovered": true
+    },
+    "1563857996147204266": {
+      "channelId": "1563857996147204266",
+      "guildId": "1418997681254174883",
+      "panelId": 1,
+      "openerId": "475921252851122179",
+      "claimedBy": null,
+      "claimedAt": null,
+      "addedUserIds": [
+        "1190551550754553989",
+        "1199878819071393792"
+      ],
+      "closed": false,
+      "closedBy": null,
+      "createdAt": 1792923201358,
+      "deleted": false,
+      "recovered": true
+    }
+  }
+}
